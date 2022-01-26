@@ -16,5 +16,5 @@ with open('README.md','w') as f:
 
 
 os.system('git add *')
-os.system('git commit "%s"'%str(n))
+os.system('git commit -m "%s"'%str(n))
 os.system('git push -u origin master')
