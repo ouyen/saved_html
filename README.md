@@ -14,3 +14,5 @@
 
 + [一款轻量级verilog HDL开发方案（一）vscode_iverilog搭建开发环境 - 知乎 (2022_1_26 20_21_28)](https://ouyen.github.io/saved_html/%E4%B8%80%E6%AC%BE%E8%BD%BB%E9%87%8F%E7%BA%A7verilog%20HDL%E5%BC%80%E5%8F%91%E6%96%B9%E6%A1%88%EF%BC%88%E4%B8%80%EF%BC%89vscode_iverilog%E6%90%AD%E5%BB%BA%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%20-%20%E7%9F%A5%E4%B9%8E%20%282022_1_26%2020_21_28%29.html)
 
++ [Python之日志处理（logging模块） - 云游道士 - 博客园 (2022_1_28 20_36_02)](https://ouyen.github.io/saved_html/Python%E4%B9%8B%E6%97%A5%E5%BF%97%E5%A4%84%E7%90%86%EF%BC%88logging%E6%A8%A1%E5%9D%97%EF%BC%89%20-%20%E4%BA%91%E6%B8%B8%E9%81%93%E5%A3%AB%20-%20%E5%8D%9A%E5%AE%A2%E5%9B%AD%20%282022_1_28%2020_36_02%29.html)
+
