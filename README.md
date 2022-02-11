@@ -14,6 +14,8 @@
 
 + [linux 技巧：使用 screen 管理你的远程会话 (2022_1_26 20_17_00)](https://ouyen.github.io/saved_html/linux%20%E6%8A%80%E5%B7%A7%EF%BC%9A%E4%BD%BF%E7%94%A8%20screen%20%E7%AE%A1%E7%90%86%E4%BD%A0%E7%9A%84%E8%BF%9C%E7%A8%8B%E4%BC%9A%E8%AF%9D%20%282022_1_26%2020_17_00%29.html)
 
++ [如何现在就在 Ubuntu 20.04 下用上 Fcitx 5.0.2 - Plum's Blog (2022_2_11 12_41_01)](https://ouyen.github.io/saved_html/%E5%A6%82%E4%BD%95%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%9C%A8%20Ubuntu%2020.04%20%E4%B8%8B%E7%94%A8%E4%B8%8A%20Fcitx%205.0.2%20-%20Plum%27s%20Blog%20%282022_2_11%2012_41_01%29.html)
+
 + [一款轻量级verilog HDL开发方案（一）vscode_iverilog搭建开发环境 - 知乎 (2022_1_26 20_21_28)](https://ouyen.github.io/saved_html/%E4%B8%80%E6%AC%BE%E8%BD%BB%E9%87%8F%E7%BA%A7verilog%20HDL%E5%BC%80%E5%8F%91%E6%96%B9%E6%A1%88%EF%BC%88%E4%B8%80%EF%BC%89vscode_iverilog%E6%90%AD%E5%BB%BA%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%20-%20%E7%9F%A5%E4%B9%8E%20%282022_1_26%2020_21_28%29.html)
 
 + [ehForwarderBot 遇到的那些坑 _ 松鼠窝 (2022_2_9 23_01_34)](https://ouyen.github.io/saved_html/ehForwarderBot%20%E9%81%87%E5%88%B0%E7%9A%84%E9%82%A3%E4%BA%9B%E5%9D%91%20_%20%E6%9D%BE%E9%BC%A0%E7%AA%9D%20%282022_2_9%2023_01_34%29.html)
