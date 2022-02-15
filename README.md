@@ -10,6 +10,10 @@
 
 + [i.e._e.g._aka的正确使用方法 - 知乎 (2022_1_26 21_03_29)](https://ouyen.github.io/saved_html/i.e._e.g._aka%E7%9A%84%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%20-%20%E7%9F%A5%E4%B9%8E%20%282022_1_26%2021_03_29%29.html)
 
++ [Ubuntu自动挂载ntfs并使用系统回收站_HYC679的博客-CSDN博客 (2022_2_15 13_48_09)](https://ouyen.github.io/saved_html/Ubuntu%E8%87%AA%E5%8A%A8%E6%8C%82%E8%BD%BDntfs%E5%B9%B6%E4%BD%BF%E7%94%A8%E7%B3%BB%E7%BB%9F%E5%9B%9E%E6%94%B6%E7%AB%99_HYC679%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2%20%282022_2_15%2013_48_09%29.html)
+
++ [Linux查看可执行文件依赖库_JoshYueby的博客-CSDN博客_linux 查看可执行文件依赖的库文件 (2022_2_13 13_38_06)](https://ouyen.github.io/saved_html/Linux%E6%9F%A5%E7%9C%8B%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E4%BE%9D%E8%B5%96%E5%BA%93_JoshYueby%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2_linux%20%E6%9F%A5%E7%9C%8B%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E4%BE%9D%E8%B5%96%E7%9A%84%E5%BA%93%E6%96%87%E4%BB%B6%20%282022_2_13%2013_38_06%29.html)
+
 + [专业级Wikidot语法 - SCP基金会 (2022_1_26 21_22_35)](https://ouyen.github.io/saved_html/%E4%B8%93%E4%B8%9A%E7%BA%A7Wikidot%E8%AF%AD%E6%B3%95%20-%20SCP%E5%9F%BA%E9%87%91%E4%BC%9A%20%282022_1_26%2021_22_35%29.html)
 
 + [vim 概览](https://ouyen.github.io/saved_html/vim%20%E6%A6%82%E8%A7%88.html)
