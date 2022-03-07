@@ -4,6 +4,8 @@
 
 + [python 忽略警告（warning）的几种方法_time_forgotten的博客-CSDN博客_python忽略警告信息 (2022_1_28 00_15_53)](https://ouyen.github.io/saved_html/python%20%E5%BF%BD%E7%95%A5%E8%AD%A6%E5%91%8A%EF%BC%88warning%EF%BC%89%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95_time_forgotten%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2_python%E5%BF%BD%E7%95%A5%E8%AD%A6%E5%91%8A%E4%BF%A1%E6%81%AF%20%282022_1_28%2000_15_53%29.html)
 
++ [使Linux版Firefox支持触摸屏操作 - BEEKC (2022_3_4 15_31_46)](https://ouyen.github.io/saved_html/%E4%BD%BFLinux%E7%89%88Firefox%E6%94%AF%E6%8C%81%E8%A7%A6%E6%91%B8%E5%B1%8F%E6%93%8D%E4%BD%9C%20-%20BEEKC%20%282022_3_4%2015_31_46%29.html)
+
 + [ehForwarderBot遇到的那些坑](https://ouyen.github.io/saved_html/ehForwarderBot%E9%81%87%E5%88%B0%E7%9A%84%E9%82%A3%E4%BA%9B%E5%9D%91.html)
 
 + [常用数学符号的 LaTeX 表示方法](https://ouyen.github.io/saved_html/%E5%B8%B8%E7%94%A8%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7%E7%9A%84%20LaTeX%20%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95.html)
