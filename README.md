@@ -14,6 +14,8 @@
 
 + [Ubuntu自动挂载ntfs并使用系统回收站_HYC679的博客-CSDN博客 (2022_2_15 13_48_09)](https://ouyen.github.io/saved_html/Ubuntu%E8%87%AA%E5%8A%A8%E6%8C%82%E8%BD%BDntfs%E5%B9%B6%E4%BD%BF%E7%94%A8%E7%B3%BB%E7%BB%9F%E5%9B%9E%E6%94%B6%E7%AB%99_HYC679%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2%20%282022_2_15%2013_48_09%29.html)
 
++ [删除华为手机内置应用 - 笨笨的juju女孩 - 博客园 (2022_3_18 23_06_09)](https://ouyen.github.io/saved_html/%E5%88%A0%E9%99%A4%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%86%85%E7%BD%AE%E5%BA%94%E7%94%A8%20-%20%E7%AC%A8%E7%AC%A8%E7%9A%84juju%E5%A5%B3%E5%AD%A9%20-%20%E5%8D%9A%E5%AE%A2%E5%9B%AD%20%282022_3_18%2023_06_09%29.html)
+
 + [微软开源最强Python自动化神器Playwright！不用写一行代码！ - 知乎 (2022_3_7 21_19_02)](https://ouyen.github.io/saved_html/%E5%BE%AE%E8%BD%AF%E5%BC%80%E6%BA%90%E6%9C%80%E5%BC%BAPython%E8%87%AA%E5%8A%A8%E5%8C%96%E7%A5%9E%E5%99%A8Playwright%EF%BC%81%E4%B8%8D%E7%94%A8%E5%86%99%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%81%20-%20%E7%9F%A5%E4%B9%8E%20%282022_3_7%2021_19_02%29.html)
 
 + [Linux查看可执行文件依赖库_JoshYueby的博客-CSDN博客_linux 查看可执行文件依赖的库文件 (2022_2_13 13_38_06)](https://ouyen.github.io/saved_html/Linux%E6%9F%A5%E7%9C%8B%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E4%BE%9D%E8%B5%96%E5%BA%93_JoshYueby%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2_linux%20%E6%9F%A5%E7%9C%8B%E5%8F%AF%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E4%BE%9D%E8%B5%96%E7%9A%84%E5%BA%93%E6%96%87%E4%BB%B6%20%282022_2_13%2013_38_06%29.html)
