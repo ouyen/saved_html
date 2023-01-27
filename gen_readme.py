@@ -5,7 +5,7 @@ from urllib.parse import quote
 
 n=0
 
-with open('README.md','w') as f:
+with open('README.md','w',encoding="utf-8") as f:
     f.write('''# 剪报--保存一些看到的有用文章
 
 ( 使用singlefile保存网页 )
