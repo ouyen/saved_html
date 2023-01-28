@@ -28,6 +28,8 @@
 
 + [专业级Wikidot语法 - SCP基金会 (2022_1_26 21_22_35)](https://ouyen.github.io/saved_html/%E4%B8%93%E4%B8%9A%E7%BA%A7Wikidot%E8%AF%AD%E6%B3%95%20-%20SCP%E5%9F%BA%E9%87%91%E4%BC%9A%20%282022_1_26%2021_22_35%29.html)
 
++ [为什么win7下的扫雷在win10不能运行？ - 知乎 (1_28_2023 12_41_50 PM)](https://ouyen.github.io/saved_html/%E4%B8%BA%E4%BB%80%E4%B9%88win7%E4%B8%8B%E7%9A%84%E6%89%AB%E9%9B%B7%E5%9C%A8win10%E4%B8%8D%E8%83%BD%E8%BF%90%E8%A1%8C%EF%BC%9F%20-%20%E7%9F%A5%E4%B9%8E%20%281_28_2023%2012_41_50%20PM%29.html)
+
 + [使Linux版Firefox支持触摸屏操作 - BEEKC (2022_3_4 15_31_46)](https://ouyen.github.io/saved_html/%E4%BD%BFLinux%E7%89%88Firefox%E6%94%AF%E6%8C%81%E8%A7%A6%E6%91%B8%E5%B1%8F%E6%93%8D%E4%BD%9C%20-%20BEEKC%20%282022_3_4%2015_31_46%29.html)
 
 + [删除华为手机内置应用 - 笨笨的juju女孩 - 博客园 (2022_3_18 23_06_09)](https://ouyen.github.io/saved_html/%E5%88%A0%E9%99%A4%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%86%85%E7%BD%AE%E5%BA%94%E7%94%A8%20-%20%E7%AC%A8%E7%AC%A8%E7%9A%84juju%E5%A5%B3%E5%AD%A9%20-%20%E5%8D%9A%E5%AE%A2%E5%9B%AD%20%282022_3_18%2023_06_09%29.html)
