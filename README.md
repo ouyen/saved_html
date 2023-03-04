@@ -6,6 +6,8 @@
 
 + [ehForwarderBot遇到的那些坑](https://ouyen.github.io/saved_html/ehForwarderBot%E9%81%87%E5%88%B0%E7%9A%84%E9%82%A3%E4%BA%9B%E5%9D%91.html)
 
++ [Found a Google Translate endpoint that doesn't require an API key. · Issue #268 · ssut_py-googletrans · GitHub (2023_3_4 13_53_23)](https://ouyen.github.io/saved_html/Found%20a%20Google%20Translate%20endpoint%20that%20doesn%27t%20require%20an%20API%20key.%20%C2%B7%20Issue%20%23268%20%C2%B7%20ssut_py-googletrans%20%C2%B7%20GitHub%20%282023_3_4%2013_53_23%29.html)
+
 + [i.e._e.g._aka的正确使用方法 - 知乎 (2022_1_26 21_03_29)](https://ouyen.github.io/saved_html/i.e._e.g._aka%E7%9A%84%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%20-%20%E7%9F%A5%E4%B9%8E%20%282022_1_26%2021_03_29%29.html)
 
 + [iOS快捷指令 一键打开支付宝、微信健康码的简单分析 - 知乎 (2022_2_16 15_44_04)](https://ouyen.github.io/saved_html/iOS%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4%20%E4%B8%80%E9%94%AE%E6%89%93%E5%BC%80%E6%94%AF%E4%BB%98%E5%AE%9D%E3%80%81%E5%BE%AE%E4%BF%A1%E5%81%A5%E5%BA%B7%E7%A0%81%E7%9A%84%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90%20-%20%E7%9F%A5%E4%B9%8E%20%282022_2_16%2015_44_04%29.html)
